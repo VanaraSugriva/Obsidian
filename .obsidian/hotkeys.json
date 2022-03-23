@@ -21,28 +21,50 @@
       "key": "Delete"
     }
   ],
+<<<<<<< HEAD
   "obsidian-git:commit": [
+=======
+  "obsidian-git:pull": [
+>>>>>>> origin/main
     {
       "modifiers": [
         "Alt"
       ],
+<<<<<<< HEAD
       "key": "ArrowUp"
     }
   ],
   "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
+=======
       "key": "ArrowLeft"
     }
   ],
   "obsidian-git:push2": [
+>>>>>>> origin/main
     {
       "modifiers": [
         "Alt"
       ],
+<<<<<<< HEAD
+      "key": "ArrowLeft"
+    }
+  ],
+  "obsidian-git:push2": [
+=======
       "key": "ArrowRight"
+    }
+  ],
+  "obsidian-git:commit": [
+>>>>>>> origin/main
+    {
+      "modifiers": [
+        "Alt"
+      ],
+<<<<<<< HEAD
+      "key": "ArrowRight"
+=======
+      "key": "ArrowUp"
+>>>>>>> origin/main
     }
   ]
 }

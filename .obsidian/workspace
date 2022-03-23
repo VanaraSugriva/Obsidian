@@ -14,6 +14,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "811f6e84792e2896",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Pro. IT. LinkMeUp. Автоматизация. Netbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Pro. IT. LinkMeUp. Автоматизация. Netbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,8 +133,9 @@
     "width": 146,
     "collapsed": true
   },
-  "active": "5c393f9c0f3d58e5",
+  "active": "811f6e84792e2896",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Base/Pro. IT. LinkMeUp. Автоматизация. Netbox.md",
     "Base/Pro. IT. LinkMeUp. Автоматизация. Заметки. RESTful API.md",
     "Base/Project. Job. IT Systems Support Specialist в РН Банк.md",
@@ -137,7 +144,6 @@
     "Base/Pra. Пустота.md",
     "Base/Pro. Prav. Zetelkasten. Productivity - Виктор Теплов. Zettelkasten в Obsidian - Шпаргалка.md",
     "Base/Pro. Prav. Zettelkasten. ВТОРОЙ МОЗГ, который будет думать за вас. Зеттелькастен метод.md",
-    "Base/Pro. IT. REST API — RESTful - Intro.md",
-    "Base/Pro. IT. LinkMeUp - 09. Multicast.md"
+    "Base/Pro. IT. REST API — RESTful - Intro.md"
   ]
 }
