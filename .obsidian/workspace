@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Pra. IT. PyNEng. re.md",
+            "file": "Base/Pra. Пустота.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Pra. IT. PyNEng. re.md",
+                "file": "Base/Pra. Пустота.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Pra. IT. PyNEng. re.md",
+                "file": "Base/Pra. Пустота.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "5c393f9c0f3d58e5",
   "lastOpenFiles": [
+    "Base/Pra. Пустота.md",
+    "Base/Project. Job. IT Systems Support Specialist в РН Банк.md",
     "Base/Pra. IT. PyNEng. re.md",
     "Daily/2022-03-16.md",
     "Base/Pra. Вершина Айсберга.md",
-    "Base/Pra. Пустота.md",
     "Base/Dela. Internet. Tinkoff Mobile. Test.md",
     "Templates/New Note.md",
     "Base/Pro. Prav. Zettelkasten. Виктор Теплов - Productivity Obsidian. Обзор новинок и советы.md",
     "Base/Pro. Prav. Zettelkasten. ВТОРОЙ МОЗГ, который будет думать за вас. Зеттелькастен метод.md",
-    "Base/Pro. Prav. Zetelkasten. Productivity - Виктор Теплов. Zettelkasten в Obsidian - Шпаргалка.md",
-    "Base/Pro. Prav. Zetelkasten. Productivity - Виктор Теплов. Zettelkasten в Obsidian.md"
+    "Base/Pro. Prav. Zetelkasten. Productivity - Виктор Теплов. Zettelkasten в Obsidian - Шпаргалка.md"
   ]
 }
