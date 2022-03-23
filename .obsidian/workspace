@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5c393f9c0f3d58e5",
+        "id": "811f6e84792e2896",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Pro. IT. LinkMeUp. Автоматизация. Netbox.md",
+            "file": "Base/Pra. Пустота.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "811f6e84792e2896",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
         }
       }
     ],
@@ -85,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Pra. Пустота.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Pra. Пустота.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,13 +129,13 @@
   },
   "active": "811f6e84792e2896",
   "lastOpenFiles": [
+    "Base/Pra. Пустота.md",
     "conflict-files-obsidian-git.md",
     "Base/Pro. IT. LinkMeUp. Автоматизация. Netbox.md",
     "Base/Pro. IT. LinkMeUp. Автоматизация. Заметки. RESTful API.md",
     "Base/Project. Job. IT Systems Support Specialist в РН Банк.md",
     "Base/Pro. IT. Verstka. Symbols.md",
     "Base/Pra. IT. PyNEng. re.md",
-    "Base/Pra. Пустота.md",
     "Base/Pro. Prav. Zetelkasten. Productivity - Виктор Теплов. Zettelkasten в Obsidian - Шпаргалка.md",
     "Base/Pro. Prav. Zettelkasten. ВТОРОЙ МОЗГ, который будет думать за вас. Зеттелькастен метод.md",
     "Base/Pro. IT. REST API — RESTful - Intro.md"
