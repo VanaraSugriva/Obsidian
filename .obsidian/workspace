@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "d02c1c4745fb0a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c393f9c0f3d58e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Pra. IT. PyNEng. re.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7463f8e8fa85bdb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e0c21676a8e61c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8243304320e0cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a5ff598577cc820",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "547fb21dd0eb77eb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356
+  },
+  "right": {
+    "id": "617273b3a37ca24c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d96d20a92e4de6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1efd09233d51c789",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Pra. IT. PyNEng. re.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20a9af8b11824ff4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "211823cc1d0cdb64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/Pra. IT. PyNEng. re.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cb50b93584f9a29",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 146,
+    "collapsed": true
+  },
+  "active": "5c393f9c0f3d58e5",
+  "lastOpenFiles": [
+    "Base/Pra. IT. PyNEng. re.md",
+    "Daily/2022-03-16.md",
+    "Base/Pra. Вершина Айсберга.md",
+    "Base/Pra. Пустота.md",
+    "Base/Dela. Internet. Tinkoff Mobile. Test.md",
+    "Templates/New Note.md",
+    "Base/Pro. Prav. Zettelkasten. Виктор Теплов - Productivity Obsidian. Обзор новинок и советы.md",
+    "Base/Pro. Prav. Zettelkasten. ВТОРОЙ МОЗГ, который будет думать за вас. Зеттелькастен метод.md",
+    "Base/Pro. Prav. Zetelkasten. Productivity - Виктор Теплов. Zettelkasten в Obsidian - Шпаргалка.md",
+    "Base/Pro. Prav. Zetelkasten. Productivity - Виктор Теплов. Zettelkasten в Obsidian.md"
+  ]
+}
