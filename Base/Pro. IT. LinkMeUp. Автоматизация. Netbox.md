@@ -85,7 +85,6 @@ nb.dcim.sites.filter(region="ru")
 
 Slug — это идентификатор, содержащий только безопасные символы: [0-9A-Za-z-_], который можно использовать в URL
 
-
 ### Устройства
 
 Само устройство обладает какой-то [ролью], например, leaf, spine, edge, border.  
@@ -97,52 +96,32 @@ Slug — это идентификатор, содержащий только б
 Получить список всех устройств:
 
 ```
-curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/" -H "Accept: application/json; indent=4"
-```
-
-```
-nb.dcim.devices.all()
+curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/" -H "Accept: application/json; indent=4" nb.dcim.devices.all()
 ```
 
 Всех устройств конкретного сайта:
 
 ```
-curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/?site=mlg" -H "Accept: application/json; indent=4"
-```
-
-```
-nb.dcim.devices.filter(site="mlg")
+curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/?site=mlg" -H "Accept: application/json; indent=4" nb.dcim.devices.filter(site="mlg")
 ```
 
 Всех устройств определённой модели
 
 ```
-curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/?model=veos" -H "Accept: application/json; indent=4"
-```
-
-```
-nb.dcim.devices.filter(device_type_id=2)
+curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/?model=veos" -H "Accept: application/json; indent=4" nb.dcim.devices.filter(device_type_id=2)
 ```
 
 Всех устройств определённой роли:
 
 ```
-curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/?role=leaf" -H "Accept: application/json; indent=4"
-```
-
-```
-nb.dcim.devices.filter(role="leaf")
+curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/?role=leaf" -H "Accept: application/json; indent=4" nb.dcim.devices.filter(role="leaf")
 ```
 
 Устройство может быть в разных статусах: Active, Offline, Planned итд.  
 Все активные устройства:
 
 ```
-curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/?status=active" -H "Accept: application/json; indent=4"
-```
-
-```
-nb.dcim.devices.filter(status="active")
+curl -X GET "http://netbox.linkmeup.ru:45127/api/dcim/devices/?status=active" -H "Accept: application/json; indent=4" nb.dcim.devices.filter(status="active")
 ```
 
 ### Интерфейсы

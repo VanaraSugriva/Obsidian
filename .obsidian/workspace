@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Pra. IT. PyNEng. re.md",
-            "mode": "source"
+            "file": "Base/Pro. IT. LinkMeUp. Автоматизация. Netbox.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,12 +57,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 749
   },
   "right": {
     "id": "617273b3a37ca24c",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Pra. IT. PyNEng. re.md",
+                "file": "Base/Pro. IT. LinkMeUp. Автоматизация. Netbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Pra. IT. PyNEng. re.md",
+                "file": "Base/Pro. IT. LinkMeUp. Автоматизация. Netbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +129,15 @@
   },
   "active": "5c393f9c0f3d58e5",
   "lastOpenFiles": [
+    "Base/Pro. IT. LinkMeUp. Автоматизация. Netbox.md",
+    "Base/Pro. IT. LinkMeUp. Автоматизация. Заметки. RESTful API.md",
+    "Base/Project. Job. IT Systems Support Specialist в РН Банк.md",
+    "Base/Pro. IT. Verstka. Symbols.md",
     "Base/Pra. IT. PyNEng. re.md",
-    "Daily/2022-03-16.md",
-    "Base/Pra. Вершина Айсберга.md",
     "Base/Pra. Пустота.md",
-    "Base/Dela. Internet. Tinkoff Mobile. Test.md",
-    "Templates/New Note.md",
-    "Base/Pro. Prav. Zettelkasten. Виктор Теплов - Productivity Obsidian. Обзор новинок и советы.md",
-    "Base/Pro. Prav. Zettelkasten. ВТОРОЙ МОЗГ, который будет думать за вас. Зеттелькастен метод.md",
     "Base/Pro. Prav. Zetelkasten. Productivity - Виктор Теплов. Zettelkasten в Obsidian - Шпаргалка.md",
-    "Base/Pro. Prav. Zetelkasten. Productivity - Виктор Теплов. Zettelkasten в Obsidian.md"
+    "Base/Pro. Prav. Zettelkasten. ВТОРОЙ МОЗГ, который будет думать за вас. Зеттелькастен метод.md",
+    "Base/Pro. IT. REST API — RESTful - Intro.md",
+    "Base/Pro. IT. LinkMeUp - 09. Multicast.md"
   ]
 }

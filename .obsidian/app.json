@@ -3,5 +3,7 @@
   "attachmentFolderPath": "Files",
   "newFileLocation": "folder",
   "newFileFolderPath": "Base",
-  "spellcheck": true
+  "spellcheck": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
